@@ -1,4 +1,4 @@
 # hello-word
 
 Hello there.
-I hate snow 
+I hate snow also
